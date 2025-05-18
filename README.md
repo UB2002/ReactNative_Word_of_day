@@ -30,3 +30,5 @@ You can start developing by editing the files inside the **app** directory. This
    ```bash
    npm run android
    ```
+
+   ![App Screenshot](output/Screenshot%202025-05-19%20001710.png)
